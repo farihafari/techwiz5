@@ -1,0 +1,107 @@
+{
+    "mobiles":{
+        "inifinix":[
+            {
+            
+                "name":"inifinix hot 12",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/s1.jpg"
+            },
+            {
+            
+                "name":"inifinix note 12",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/s2.jpg"
+
+            },
+            {
+            
+                "name":"inifinix note 40",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/r1.jpg"
+
+            }
+        ],
+        "oppo":[
+            {
+            
+                "name":"oppo1",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/s1.jpg"
+            },
+            {
+            
+                "name":"oppo2",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/s2.jpg"
+
+            },
+            {
+            
+                "name":"oppo3",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/r1.jpg"
+
+            }
+        ]
+    }
+    ,
+    "fashion":{
+        "nishat":[
+            {
+            
+                "name":"nishat lawn unstitch dress",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/s1.jpg"
+            },
+            {
+            
+                "name":"nishat lawn shirt",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/s2.jpg"
+
+            },
+            {
+            
+                "name":"nishat lawn 2piece",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/r1.jpg"
+
+            }
+        ],
+        "alkaram":[
+            {
+            
+                "name":"alkaram lawn unstitch dress",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/s1.jpg"
+            },
+            {
+            
+                "name":"alkaram lawn shirt",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/s2.jpg"
+
+            },
+            {
+            
+                "name":"alkaram lawn 2piece",
+                "price":45000,
+                "description":"dsbfdkjsfbg",
+                "image":"assets/images/r1.jpg"
+
+            } 
+        ]
+    }
+}
