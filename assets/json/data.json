@@ -1,107 +1,98 @@
 {
-    "mobiles":{
-        "inifinix":[
+    "mobiles": {
+        "inifinix": [
             {
-            
-                "name":"inifinix hot 12",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/s1.jpg"
+                "id": "i1",
+                "name": "inifinix hot 12",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/s1.jpg"
             },
             {
-            
-                "name":"inifinix note 12",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/s2.jpg"
-
+                "id": "i2",
+                "name": "inifinix note 12",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/s2.jpg"
             },
             {
-            
-                "name":"inifinix note 40",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/r1.jpg"
-
+                "id": "i3",
+                "name": "inifinix note 40",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/r1.jpg"
             }
         ],
-        "oppo":[
+        "oppo": [
             {
-            
-                "name":"oppo1",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/s1.jpg"
+                "id": "o1",
+                "name": "oppo1",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/s1.jpg"
             },
             {
-            
-                "name":"oppo2",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/s2.jpg"
-
+                "id": "o2",
+                "name": "oppo2",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/s2.jpg"
             },
             {
-            
-                "name":"oppo3",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/r1.jpg"
-
+                "id": "o3",
+                "name": "oppo3",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/r1.jpg"
             }
         ]
-    }
-    ,
-    "fashion":{
-        "nishat":[
+    },
+    "fashion": {
+        "nishat": [
             {
-            
-                "name":"nishat lawn unstitch dress",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/s1.jpg"
+                "id": "n1",
+                "name": "nishat lawn unstitch dress",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/s1.jpg"
             },
             {
-            
-                "name":"nishat lawn shirt",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/s2.jpg"
-
+                "id": "n2",
+                "name": "nishat lawn shirt",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/s2.jpg"
             },
             {
-            
-                "name":"nishat lawn 2piece",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/r1.jpg"
-
+                "id": "n3",
+                "name": "nishat lawn 2piece",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/r1.jpg"
             }
         ],
-        "alkaram":[
+        "alkaram": [
             {
-            
-                "name":"alkaram lawn unstitch dress",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/s1.jpg"
+                "id": "a1",
+                "name": "alkaram lawn unstitch dress",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/s1.jpg"
             },
             {
-            
-                "name":"alkaram lawn shirt",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/s2.jpg"
-
+                "id": "a2",
+                "name": "alkaram lawn shirt",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/s2.jpg"
             },
             {
-            
-                "name":"alkaram lawn 2piece",
-                "price":45000,
-                "description":"dsbfdkjsfbg",
-                "image":"assets/images/r1.jpg"
-
-            } 
+                "id": "a3",
+                "name": "alkaram lawn 2piece",
+                "price": 45000,
+                "description": "dsbfdkjsfbg",
+                "image": "assets/images/r1.jpg"
+            }
         ]
     }
 }
